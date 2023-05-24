@@ -1,1 +1,1 @@
-# -Solidus-RIPcam
+# Solidus-RIPcam
