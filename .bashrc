@@ -93,9 +93,9 @@ alias la='ls -A'
 alias l='ls -CF'
 
 
-alias frontcam='gst-launch-1.0 -v v4l2src device=/dev/video2 ! videoconvert ! video/x-raw,format=GRAY8,width=640,height=480,framerate=30/1 ! videoconvert ! x264enc tune=zerolatency bitrate=6000 speed-preset=superfast ! rtph264pay ! udpsink host=192.168.50.210 port=5000'
+alias frontcam='gst-launch-1.0 -v v4l2src device=/dev/video2 ! videoconvert ! video/x-raw,format=GRAY8,width=320,height=240,framerate=30/1 ! videoconvert ! x264enc tune=zerolatency bitrate=3000 speed-preset=fast ! rtph264pay ! udpsink host=192.168.50.210 port=5000'
 
-alias backcam='gst-launch-1.0 -v v4l2src device=/dev/video0 ! videoconvert ! video/x-raw,format=GRAY8,width=640,height=480,framerate=30/1 ! videoconvert ! x264enc tune=zerolatency bitrate=6000 speed-preset=superfast ! rtph264pay ! udpsink host=192.168.50.210 port=5002'
+alias backcam='gst-launch-1.0 -v v4l2src device=/dev/video0 ! videoconvert ! video/x-raw,format=GRAY8,width=320,height=240,framerate=30/1 ! videoconvert ! x264enc tune=zerolatency bitrate=3000 speed-preset=fast ! rtph264pay ! udpsink host=192.168.50.210 port=5002'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -124,4 +124,4 @@ fi
 
 cat /home/ubuntu/welcome.txt
 
-source mqttCamera2.sh
+source mqttGimbalCameras.sh

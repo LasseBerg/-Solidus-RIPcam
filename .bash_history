@@ -189,3 +189,145 @@ hostnamectl set-hostname RIPcam
 ls
 sudo reboot now
 sudo reboot
+sudo service icecast2 start
+xdg-open http://192.168.50.130:8000/admin/
+sudo apt-get install firefox
+xdg-open http://192.168.50.130:8000/admin/
+sudo reboot
+vim .bashrc 
+source .bashrc 
+pwd
+ls
+vim .bashrc 
+source .bashrc 
+ls
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+sudo systemctl start icecast2
+sudo systemctl
+htop
+sudo systemctl stop icecast2
+htop
+sudo systemctl start icecast2
+htop
+sudo apt-get install darkice
+cd ..
+cd etc/
+ls
+sudo apt-get install darkice
+sudo reboot
+cd ..
+ls
+cd etc/
+ls
+cd /etc
+sudo touch darkice.cfg
+ls
+sudo nano darkice.cfg
+ls
+darkice -c /etc/darkice.cfg
+sudo systemctl start icecast2
+sudo systemctl start darkice
+darkice -c /etc/darkice.cfg
+sudo nano darkice.cfg 
+darkice -c /etc/darkice.cfg
+sudo nano darkice.cfg 
+darkice -c /etc/darkice.cfg
+sudo nano darkice.cfg 
+sudo systemctl status darkice
+sudo tail -f /var/log/darkice.log
+sudo systemctl status darkice
+sudo systemctl status icecast2
+sudo systemctl start icecast2
+sudo systemctl start darkice
+systemctl status icecaste2
+systemctl status icecast2
+systemctl status darkice
+sudo systemctl start darkice
+systemctl status darkice
+sudo tail -f /var/log/darkice.log
+sudo systemctl stop icecast2
+sudo systemctl start icecast2
+systemctl status darkice
+systemctl status icecast2
+sudo systemctl stop darkice
+sudo systemctl start darkice
+systemctl status darkice
+cd etc/
+cd ..
+ls
+cd etc/
+ls
+nano darkice.cfg 
+sudo nano darkice.cfg
+ls
+htop
+sudo systemctl stop darkice
+sudo systemctl start darkice
+sudo systemctl status darkice
+cd icecast2/
+ls
+nano icecast.xml 
+sudo nano icecast.xml 
+vim .bashrc 
+source .bashrc 
+sudo reboot
+ps -e
+htop
+ls
+python3 cam_audio.py 
+sudo alsa force-reload
+sudo apt-get install alsa-base alsa-utils
+python3 cam_audio.py 
+sudo reboot
+python3 cam_audio.py 
+pip install sounddevice
+python3 cam_audio.py 
+vim newSender.py
+python3 newSender.py 
+vim newSender.py
+python3 newSender.py 
+vim newSender.py
+python3 newSender.py 
+source .bashrc
+vim .bashrc
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+vim .bashrc 
+source .bashrc 
+ls
+vim mqttCamera2.sh 
+cat mqttCamera2.sh 
+clear
+ls
+vim newSender.py 
+ls
+vim newSender.py 
+cat mqttCamera2.sh 
+exit
+vim .ssh/known_hosts 
+exit
+exit
+./mqttCamera3.sh 
+vim mqttCamera3.sh 
+ls
+vim newSender.py 
+./mqttCamera3.sh 
+sudo reboot
+exit

@@ -12,11 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1682256347,,"wq"
+|2,0,1682497577,,"wq"
 :q
-|2,0,1682256317,,"q"
-:q!
-|2,0,1682004952,,"q!"
+|2,0,1682497559,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,359 +25,36 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
-	    cv2.destroyAllWindows()
-|3,1,1,1,1,0,1682013985,"    cv2.destroyAllWindows()"
-"2	LINE	0
-	
-|3,0,2,1,1,0,1682013984,""
-"3	LINE	0
-	    r.join()
-|3,0,3,1,1,0,1682013983,"    r.join()"
-"4	LINE	0
-	    s.join()
-|3,0,4,1,1,0,1682013983,"    s.join()"
-"5	LINE	0
-	    r.start()
-|3,0,5,1,1,0,1682013982,"    r.start()"
-"6	LINE	0
-	    s.start()
-|3,0,6,1,1,0,1682013982,"    s.start()"
-"7	LINE	0
-	    r = Process(target=receive)
-|3,0,7,1,1,0,1682013982,"    r = Process(target=receive)"
-"8	LINE	0
-	    s = Process(target=send)
-|3,0,8,1,1,0,1682013982,"    s = Process(target=send)"
-"9	LINE	0
-	if __name__ == '__main__':
-|3,0,9,1,1,0,1682013982,"if __name__ == '__main__':"
 
 # File marks:
-'0  5  17  ~/mqttCamera2.sh
-|4,48,5,17,1682256347,"~/mqttCamera2.sh"
-'1  1  0  ~/mqttCamera
-|4,49,1,0,1682256317,"~/mqttCamera"
-'2  35  26  ~/mqttCamera2.sh
-|4,50,35,26,1682178211,"~/mqttCamera2.sh"
-'3  35  26  ~/mqttCamera2.sh
-|4,51,35,26,1682178211,"~/mqttCamera2.sh"
-'4  29  26  ~/mqttCamera2.sh
-|4,52,29,26,1682178203,"~/mqttCamera2.sh"
-'5  29  26  ~/mqttCamera2.sh
-|4,53,29,26,1682178203,"~/mqttCamera2.sh"
-'6  29  26  ~/mqttCamera2.sh
-|4,54,29,26,1682178203,"~/mqttCamera2.sh"
-'7  29  26  ~/mqttCamera2.sh
-|4,55,29,26,1682178203,"~/mqttCamera2.sh"
-'8  20  17  ~/mqttCamera2.sh
-|4,56,20,17,1682178008,"~/mqttCamera2.sh"
-'9  20  17  ~/mqttCamera2.sh
-|4,57,20,17,1682178008,"~/mqttCamera2.sh"
+'0  27  51  ~/newSender.py
+|4,48,27,51,1682497577,"~/newSender.py"
+'1  33  0  ~/mqttCamera3.sh
+|4,49,33,0,1682497559,"~/mqttCamera3.sh"
 
 # Jumplist (newest first):
--'  5  17  ~/mqttCamera2.sh
-|4,39,5,17,1682256347,"~/mqttCamera2.sh"
--'  35  26  ~/mqttCamera2.sh
-|4,39,35,26,1682256319,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera
-|4,39,1,0,1682256317,"~/mqttCamera"
--'  1  0  ~/mqttCamera
-|4,39,1,0,1682256317,"~/mqttCamera"
--'  35  26  ~/mqttCamera2.sh
-|4,39,35,26,1682178211,"~/mqttCamera2.sh"
--'  35  26  ~/mqttCamera2.sh
-|4,39,35,26,1682178211,"~/mqttCamera2.sh"
--'  29  26  ~/mqttCamera2.sh
-|4,39,29,26,1682178205,"~/mqttCamera2.sh"
--'  29  26  ~/mqttCamera2.sh
-|4,39,29,26,1682178205,"~/mqttCamera2.sh"
--'  29  26  ~/mqttCamera2.sh
-|4,39,29,26,1682178205,"~/mqttCamera2.sh"
--'  29  26  ~/mqttCamera2.sh
-|4,39,29,26,1682178203,"~/mqttCamera2.sh"
--'  29  26  ~/mqttCamera2.sh
-|4,39,29,26,1682178203,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178087,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178087,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178087,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178087,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178087,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178008,"~/mqttCamera2.sh"
--'  20  17  ~/mqttCamera2.sh
-|4,39,20,17,1682178008,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177966,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177880,"~/mqttCamera2.sh"
--'  47  15  ~/mqttCamera2.sh
-|4,39,47,15,1682177880,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177871,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177868,"~/mqttCamera2.sh"
--'  24  16  ~/mqttCamera2.sh
-|4,39,24,16,1682177868,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177866,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177836,"~/mqttCamera2.sh"
--'  23  16  ~/mqttCamera2.sh
-|4,39,23,16,1682177836,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177819,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177763,"~/mqttCamera2.sh"
--'  51  37  ~/mqttCamera2.sh
-|4,39,51,37,1682177763,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177673,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177648,"~/mqttCamera2.sh"
--'  1  0  ~/mqttCamera2.sh
-|4,39,1,0,1682177648,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  29  0  ~/mqttCamera2.sh
-|4,39,29,0,1682177589,"~/mqttCamera2.sh"
--'  96  102  ~/.bashrc
-|4,39,96,102,1682177457,"~/.bashrc"
--'  96  102  ~/.bashrc
-|4,39,96,102,1682177457,"~/.bashrc"
--'  96  102  ~/.bashrc
-|4,39,96,102,1682177457,"~/.bashrc"
--'  96  102  ~/.bashrc
-|4,39,96,102,1682177457,"~/.bashrc"
--'  96  102  ~/.bashrc
-|4,39,96,102,1682177457,"~/.bashrc"
+-'  27  51  ~/newSender.py
+|4,39,27,51,1682497577,"~/newSender.py"
+-'  1  0  ~/newSender.py
+|4,39,1,0,1682497567,"~/newSender.py"
+-'  33  0  ~/mqttCamera3.sh
+|4,39,33,0,1682497559,"~/mqttCamera3.sh"
+-'  33  0  ~/mqttCamera3.sh
+|4,39,33,0,1682497559,"~/mqttCamera3.sh"
+-'  1  0  ~/mqttCamera3.sh
+|4,39,1,0,1682497551,"~/mqttCamera3.sh"
+-'  1  0  ~/mqttCamera3.sh
+|4,39,1,0,1682497551,"~/mqttCamera3.sh"
 
 # History of marks within files (newest to oldest):
 
-> ~/mqttCamera2.sh
-	*	1682256346	0
-	"	5	17
-	^	5	18
-	.	5	17
-	+	62	103
-	+	5	18
-	+	17	43
-	+	4	24
-	+	13	25
-	+	4	18
-	+	5	26
-	+	4	24
-	+	50	37
-	+	43	36
-	+	19	37
-	+	31	37
-	+	54	16
-	+	47	16
-	+	35	16
-	+	23	16
-	+	54	16
-	+	47	16
-	+	29	27
-	+	30	0
-	+	5	17
+> ~/newSender.py
+	*	1682497577	0
+	"	27	51
+	^	27	52
+	.	27	51
+	+	27	51
 
-> ~/mqttCamera
-	*	1682256316	0
-	"	1	0
-
-> ~/.bashrc
-	*	1682177453	0
-	"	96	102
-	^	96	103
-	.	96	102
-	+	125	16
-	+	96	269
-	+	98	266
-	+	98	58
-	+	98	136
-	+	96	137
-	+	98	137
-	+	96	137
-	+	98	136
-	+	127	20
-	+	96	137
-	+	98	136
-	+	96	257
-	+	98	256
-	+	96	189
-	+	98	188
-	+	96	190
-	+	96	97
-	+	96	177
-	+	96	102
-
-> ~/test.py
-	*	1682013987	0
-	"	2	17
-	.	3	0
-	+	1	10
-	+	3	0
-	+	3	26
-	+	3	0
-
-> ~/mqttCamera.sh
-	*	1682004951	0
-	"	5	0
-	^	4	25
-	.	5	0
-	+	1	9
-	+	1	24
-	+	1	44
-	+	1	7
-	+	1	30
-	+	1	0
-	+	1	11
-	+	5	103
-	+	5	49
-	+	4	24
-	+	5	0
-
-> ~/mqttbash.sh
-	*	1682000005	0
-	"	11	33
-	^	11	34
-	.	12	0
-	+	11	171
-	+	8	35
-	+	11	59
-	+	11	83
-	+	11	62
-	+	11	20
-	+	12	0
-
-> ~/mqttController.py
-	*	1681998683	0
-	"	3	0
-	^	3	0
-	.	2	0
-	+	2	0
+> ~/mqttCamera3.sh
+	*	1682497558	0
+	"	33	0
